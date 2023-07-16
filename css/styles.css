@@ -7,6 +7,7 @@
   --grayColor: #2e2f42;
   --whiteColor: #ffffff;
   --dairyColor: #fcfcfc;
+  --cornflowerColor: #E7E9FC;
 }
 
 body {
@@ -33,6 +34,7 @@ ol {
 /* Default class selector */
 .header {
   background-color: var(--whiteColor);
+  border-bottom: 1px solid var(--cornflowerColor);
 }
 
 .container {
@@ -103,6 +105,7 @@ ol {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
+  padding: 24px 0;
 }
 .logo-studio {
   color: var(--navyBlueColor);
