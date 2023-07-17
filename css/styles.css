@@ -87,7 +87,6 @@ a {
 .nav-list {
   display: flex;
   gap: 40px;
-  list-style-type: none;
   padding: 24px 0;
 }
 
@@ -110,7 +109,6 @@ a {
   display: flex;
   font-style: normal;
   gap: 40px;
-  list-style-type: none;
 }
 .address-link {
   color: var(--slateColor);
@@ -362,7 +360,6 @@ a {
   justify-content: center;
   column-gap: 24px;
   row-gap: 48px;
-  list-style-type: none;
 }
 .portfolio-item {
   width: calc((100% - 48px) / 3);
