@@ -369,9 +369,6 @@ a {
   border: 1px solid var(--cornflowerColor);
 }
 
-.portfolio-list-header {
-  padding-top: 32px;
-}
-.portfolio-list-text {
-  padding-bottom: 32px;
+.portfolio-item-text {
+  padding: 32px 16px;
 }
